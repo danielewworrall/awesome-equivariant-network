@@ -219,6 +219,10 @@ IPAM: [Risi Kondor: "Fourier space neural networks" ](https://www.youtube.com/wa
 
 Math-ML: [Erik J Bekkers: Group Equivariant CNNs beyond Roto-Translations: B-Spline CNNs on Lie Groups](https://youtu.be/rakcnrgX4oo)
 
+MLSS Indo: [Daniel E. Worrall: Advanced Topics in Equivariance and Inductive Biases](https://www.youtube.com/watch?v=HPU--yAGIBQ&feature=youtu.be&t=407)
+
+London ML Meetup: [Daniel E. Worrall: Understanding and Generalising the Convolution](https://www.youtube.com/watch?v=TlzRyHbWeP0)
+
 ### [Background](#content)
 I am by no means an expert in this field. Here are books and articles suggest by Taco Cohen when asked references to learn group theory and representation theory.
 
